@@ -8,7 +8,9 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **ReactJS, React Native, NODE JS**<br><br>-💻 favourite line of code <code>git commit -m "Initial Commit"</code> <br><br>-🤔 I’m looking for help with Outstanding ideas.<br><br>- 💬 Ask me about **HTML, CSS ,JavaScript**<br><br>- 📫 How to reach me **farhankoyapp2003@gmail.com**<br><br>- ⚡ Fun fact **UKW, I am a Developer 😃**<br>
+-🌱 I’m currently learning **ReactJS, React Native, NODE JS**<br><br>-💻 favourite line of code <code>git commit -m "Initial Commit"</code> <br><br>- 💬 Ask me about **HTML, CSS ,JavaScript**<br><br>- 📫 How to reach me **farhankoyapp2003@gmail.com**<br><br>- ⚡ Fun fact **UKW, I am a Developer 😃**<br><br>-🌟 My goal is to always stay up-to-date with the latest frontend development trends and technologies, and continuously improve my skills. 
+
+-📫 If you're interested in collaborating or have any questions, feel free to reach out to me at farhankoyappa2003@gmail.com or connect with me on instagram(https://www.instagram.com/farhanbinummer/). I'm always excited to work on new projects and meet new people in the tech community!
 
 
 ## 🌐 Socials:
